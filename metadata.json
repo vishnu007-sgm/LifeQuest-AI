@@ -1,0 +1,6 @@
+{
+  "name": "LifeQuest AI",
+  "description": "An AI-powered RPG productivity companion that turns real-life goals into structured quests, levels, achievements, and boss battles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
